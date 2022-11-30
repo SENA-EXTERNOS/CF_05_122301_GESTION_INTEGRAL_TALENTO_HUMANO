@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Grupo_136160" data-name="Grupo 136160" transform="translate(-20.023 -24.023)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(20.023 24.023)">
+      <g id="_1" data-name="1">
+        <path id="Trazado_194359" data-name="Trazado 194359" d="M21.333,35.667H2.667A2.667,2.667,0,0,1,0,33V19.667A2.667,2.667,0,0,1,2.667,17H21.333v2.667H2.667V33H21.333Z" transform="translate(0 5.667)" fill="#b13e8d"/>
+        <path id="Trazado_194360" data-name="Trazado 194360" d="M64,18.667H61.333v-16H2.667V16H24v2.667H2.667A2.667,2.667,0,0,1,0,16V2.667A2.667,2.667,0,0,1,2.667,0H61.333A2.667,2.667,0,0,1,64,2.667Z" fill="#b13e8d"/>
+        <path id="Trazado_194361" data-name="Trazado 194361" d="M61.333,52.667H2.667A2.667,2.667,0,0,1,0,50V36.667A2.667,2.667,0,0,1,2.667,34H24v2.667H2.667V50H61.333V34H64V50A2.667,2.667,0,0,1,61.333,52.667Z" transform="translate(0 11.333)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43982" data-name="Rectángulo 43982" width="3" height="6" transform="translate(6 40)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43983" data-name="Rectángulo 43983" width="2" height="6" transform="translate(8 18)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43984" data-name="Rectángulo 43984" width="3" height="2" transform="translate(6 54)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43985" data-name="Rectángulo 43985" width="3" height="3" transform="translate(41 42)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43986" data-name="Rectángulo 43986" width="4" height="3" transform="translate(46 42)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43987" data-name="Rectángulo 43987" width="2" height="3" transform="translate(36 42)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43988" data-name="Rectángulo 43988" width="3" height="2" transform="translate(6 31)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43989" data-name="Rectángulo 43989" width="3" height="2" transform="translate(6 8)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43990" data-name="Rectángulo 43990" width="23" height="2" transform="translate(12 54)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43991" data-name="Rectángulo 43991" width="7" height="2" transform="translate(12 31)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43992" data-name="Rectángulo 43992" width="23" height="2" transform="translate(12 8)" fill="#b13e8d"/>
+        <path id="Trazado_194362" data-name="Trazado 194362" d="M33.333,30.667a5.333,5.333,0,1,1,5.333-5.333A5.333,5.333,0,0,1,33.333,30.667Zm0-8A2.667,2.667,0,1,0,36,25.333,2.667,2.667,0,0,0,33.333,22.667Z" transform="translate(9.333 6.667)" fill="#b13e8d"/>
+        <path id="Trazado_194363" data-name="Trazado 194363" d="M37.333,50.667A21.333,21.333,0,1,1,58.667,29.333,21.333,21.333,0,0,1,37.333,50.667Zm0-40A18.667,18.667,0,1,0,56,29.333,18.667,18.667,0,0,0,37.333,10.667Z" transform="translate(5.333 2.667)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43993" data-name="Rectángulo 43993" width="3.773" height="2.667" transform="translate(36.392 36.381) rotate(-45)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43994" data-name="Rectángulo 43994" width="11.32" height="2.667" transform="translate(44.391 28.391) rotate(-45)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43995" data-name="Rectángulo 43995" width="3" height="6" transform="translate(41 12)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43996" data-name="Rectángulo 43996" width="5" height="2" transform="translate(23 31)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43997" data-name="Rectángulo 43997" width="5" height="2" transform="translate(58 31)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43998" data-name="Rectángulo 43998" width="2.667" height="5.333" transform="translate(52.085 43.315) rotate(-45)" fill="#b13e8d"/>
+        <rect id="Rectángulo_43999" data-name="Rectángulo 43999" width="2.667" height="5.333" transform="translate(27.587 18.795) rotate(-45)" fill="#b13e8d"/>
+        <rect id="Rectángulo_44000" data-name="Rectángulo 44000" width="5.333" height="2.667" transform="translate(27.582 45.196) rotate(-45)" fill="#b13e8d"/>
+      </g>
+    </g>
+  </g>
+</svg>

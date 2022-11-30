@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Grupo_136695" data-name="Grupo 136695" transform="translate(-1178 -901)">
+    <circle id="Elipse_5412" data-name="Elipse 5412" cx="60" cy="60" r="60" transform="translate(1178 901)" fill="#b13e8d"/>
+    <g id="Grupo_136684" data-name="Grupo 136684" transform="translate(1203.299 923.161)">
+      <g id="Grupo_136689" data-name="Grupo 136689">
+        <g id="Layer_2" data-name="Layer 2" transform="translate(33.898 -2.161)">
+          <g id="_1" data-name="1" transform="translate(0 0)">
+            <rect id="Rectángulo_43941" data-name="Rectángulo 43941" width="3.408" height="1.704" transform="translate(0.852 5.113)" fill="#fff"/>
+            <rect id="Rectángulo_43942" data-name="Rectángulo 43942" width="3.408" height="1.704" transform="translate(0.852 11.93)" fill="#fff"/>
+            <rect id="Rectángulo_43943" data-name="Rectángulo 43943" width="3.408" height="1.704" transform="translate(0.852 18.747)" fill="#fff"/>
+            <rect id="Rectángulo_43944" data-name="Rectángulo 43944" width="3.408" height="1.704" transform="translate(0.852 25.564)" fill="#fff"/>
+            <rect id="Rectángulo_43945" data-name="Rectángulo 43945" width="3.408" height="1.704" transform="translate(0.852 32.381)" fill="#fff"/>
+            <path id="Trazado_194336" data-name="Trazado 194336" d="M40.9,40.9H.852A.852.852,0,0,1,0,40.05V0H1.7V39.2H40.9Z" fill="#fff"/>
+            <path id="Trazado_195261" data-name="Trazado 195261" d="M0,2.11Z" transform="translate(26.416 15.785)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Layer_2-2" data-name="Layer 2" transform="translate(35.603 78.613) rotate(180)">
+          <g id="_1-2" data-name="1" transform="translate(0 0)">
+            <rect id="Rectángulo_43941-2" data-name="Rectángulo 43941" width="3.408" height="1.704" transform="translate(0.852 5.113)" fill="#fff"/>
+            <rect id="Rectángulo_43942-2" data-name="Rectángulo 43942" width="3.408" height="1.704" transform="translate(0.852 11.93)" fill="#fff"/>
+            <rect id="Rectángulo_43943-2" data-name="Rectángulo 43943" width="3.408" height="1.704" transform="translate(0.852 18.747)" fill="#fff"/>
+            <rect id="Rectángulo_43944-2" data-name="Rectángulo 43944" width="3.408" height="1.704" transform="translate(0.852 25.564)" fill="#fff"/>
+            <rect id="Rectángulo_43945-2" data-name="Rectángulo 43945" width="3.408" height="1.704" transform="translate(0.852 32.381)" fill="#fff"/>
+            <path id="Trazado_194336-2" data-name="Trazado 194336" d="M40.9,40.9H.852A.852.852,0,0,1,0,40.05V0H1.7V39.2H40.9Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <text id="x" transform="translate(26.809 7.074)" fill="#fff" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">x</tspan></text>
+      <text id="y" transform="translate(64.436 32.159)" fill="#fff" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">y</tspan></text>
+    </g>
+  </g>
+</svg>
