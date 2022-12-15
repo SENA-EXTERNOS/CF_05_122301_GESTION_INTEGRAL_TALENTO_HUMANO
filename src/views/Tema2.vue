@@ -16,7 +16,7 @@
           p(data-aos="fade-down").mb-0 El EDA comprende tablas de resúmenes estadísticos como la media y la desviación estándar, pero la mayor parte de los individuos se centran en los gráficos, los cuales son variados, y herramientas exploratorias. 
        
       .col-lg-4.my-3
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.png', alt='')    
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/71.png', alt='')    
     p(data-aos="fade-down").mb-5 A continuación, se presenta una lista de varios tipos de gráficos que se pueden utilizar en el análisis de datos. 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="zoom-in")
       LineaTiempoC.color-secundario
@@ -33,8 +33,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/23.png', alt='')     
         .row.justify-content-center.align-items-start.pt-3(titulo="Gráfico en mosaico")
           .col-md-7.mb-4.mb-md-0
-            p Es un gráfico que organiza valores, que se encuentran separados por barras y se organizan de mayor a menor y de izquierda a derecha, respectivamente.
-            p Se basa en el principio que establece que el 20 % de las causas generan el     80 % de los efectos o resultados. Por ejemplo, de los problemas que tiene una determinada empresa, el 20 % de ellos genera el 80 % de sobrecostos.
+            p Es un gráfico especial de diagrama de barras apiladas que muestra porcentajes de datos en diferentes grupos. Es una representación gráfica de una tabla de contingencia.
  
           .col-md-4
             img.img-a.img-t(src='@/assets/curso/temas/24.png', alt='')

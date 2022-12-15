@@ -135,28 +135,28 @@ export default {
     {
       tema: 'Estadística',
       referencia:
-        'Matemáticas profe Alex. (2017). <i>Tablas de frecuencia | Ejemplo 1</i> ',
+        'Matemáticas profe Alex. (2017). <i>Tablas de frecuencia | Ejemplo 1.</i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=cyXenZEbGz4',
     },
     {
       tema: 'Análisis exploratorio de datos',
       referencia:
-        'Libélula-ciencia, ingeniería y cultura. (2021). <i>Herramientas para clasificar los datos</i>',
+        'Libélula-ciencia, ingeniería y cultura. (2021). <i>Herramientas para clasificar los datos.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_LzW2Y2xPTw',
     },
     {
       tema: 'Análisis exploratorio de datos',
       referencia:
-        'Matemáticas profe Alex. (2018). <i>Tipos de variables estadísticas | Cuantitativas Cualitativas</i>',
+        'Matemáticas profe Alex. (2018). <i>Tipos de variables estadísticas | Cuantitativas Cualitativas.</i>',
       tipo: 'Video',
       link: 'https://youtu.be/nCszHELuwxk',
     },
     {
       tema: 'Visualización de datos',
       referencia:
-        'Matemáticas profe Alex. (2021). <i>Tipos de gráficos estadísticos</i>',
+        'Matemáticas profe Alex. (2021). <i>Tipos de gráficos estadísticos.</i>',
       tipo: 'Video',
       link: 'https://youtu.be/9G4HPNVA5w4',
     },

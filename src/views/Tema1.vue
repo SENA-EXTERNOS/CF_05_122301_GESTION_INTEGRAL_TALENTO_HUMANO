@@ -31,7 +31,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/7.svg", alt="alt").img100.m-auto     
-              p.text-center.mb-0 Indicar los cambios que deben hacerse en la compra de insumos, a partir de un cambio en las necesidades de producción por aumentos de la demanda.
+              p.text-center.mb-0 Determinar la frecuencia histórica de fallas de la maquinaria.
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
@@ -58,7 +58,7 @@
             )
             .bloque-texto-g__texto.p-4.py-5
               p.mb-0 La estadística para el procesamiento de datos científicos, es decir, datos con valor predictivo, con importancia para la toma de decisiones, que conjugados aporten la mayor información posible al analista, amerita de técnicas y herramientas que han sido definidas por los matemáticos, y las cuales se han formalizado en tres grandes categorías, en función de su complejidad y utilidad: las distribuciones de frecuencia, las medidas de tendencia central, y las medidas de dispersión. 
-      p(data-aos="fade-down") Cada una de estas técnicas posee procesamientos distintos, amerita del apoyo de herramientas ofimáticas o software de cálculo, y generan diversos tipos de información, visualizadas de maneras análogas a través de tablas y gráficos, pero que muestran una estructura de datos particulares en cada caso.    
+      p(data-aos="fade-down") Cada una de estas técnicas posee procesamientos distintos, amerita del apoyo de herramientas ofimáticas o <i>software</i> de cálculo, y generan diversos tipos de información, visualizadas de maneras análogas a través de tablas y gráficos, pero que muestran una estructura de datos particulares en cada caso.    
       p(data-aos="fade-down").mb-5 Seguidamente, se describen técnicas y herramientas de la estadística, para el procesamiento de datos:
 
     .row.justify-content-center.align-items-start.mb-4          
@@ -96,8 +96,7 @@
           img.img-a.img-t.img-w2(src='@/assets/curso/temas/12.svg' alt='AvatarTop')
           div.text-center.bg2.p-2.pt-5.h-100
             h4.mb-3.pt-4 Gráfico de columna 
-            p Este gráfico se enfoca en las variaciones de los datos a través del tiempo.
-            p Las categorías de datos aparecen en el eje horizontal y los valores en el eje vertical. Es común comparar este tipo de gráfico con los gráficos de barra, donde la diferencia principal es que en los gráficos de barra las categorías se muestran en el eje vertical.
+            p Este gráfico se enfoca en las variaciones de los datos a través del tiempo. Las categorías de datos aparecen en el eje horizontal y los valores en el eje vertical. Es común comparar este tipo de gráfico con los gráficos de barra, donde la diferencia principal es que en los gráficos de barra las categorías se muestran en el eje vertical.
         .tarjeta-avatar
           img.img-a.img-t.img-w2(src='@/assets/curso/temas/13.svg' alt='AvatarTop')
           div.text-center.bg2.p-2.pt-5.h-100

@@ -11,7 +11,7 @@
         p(data-aos="fade-down") Es importante saber que, en la búsqueda de posicionamiento en el mercado, las empresas que progresan buscan constantemente la adopción de nuevos modelos que les garanticen mayor productividad, calidad y competitividad. En este sentido, los negocios inteligentes son una tendencia que busca integrar recursos y capacidades con el mercado y la tecnología, gerenciando estratégicamente los procesos, los recursos, las tendencias del mercado y los avances tecnológicos en el uso de la información, siendo, precisamente, el manejo de la información, la estrategia de direccionamiento, es decir, un negocio que se considera inteligente, hace un uso asertivo de la información para el desarrollo y mejora de sus procesos.
 
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Se tiene, entonces, que aquí entra en juego la inteligencia de negocios o business intelligence (BI), la cual es una estrategia para el desarrollo de competitividad en empresas de base tecnológica.
+          p(data-aos="fade-down").mb-0 Se tiene, entonces, que aquí entra en juego la inteligencia de negocios o <i>business intelligence</i> (BI), la cual es una estrategia para el desarrollo de competitividad en empresas de base tecnológica.
        
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/54.png', alt='') 
@@ -41,7 +41,7 @@
         .col-lg-2.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/57.svg', alt='')    
         .col-lg-10.my-3
-          p(data-aos="fade-down") Las empresas optan por desarrollarse a partir de la generación de conocimiento desde sus procesos, enriqueciendo el know how (saber, hacer, propio y diferencial), definido como conocimiento, un activo intangible que genera valor organizacional y rentabilidad. Es por eso que, al adquirir un nuevo conocimiento y, de forma permanente, se incorpore en los procesos, es lo que se conoce como inteligencia de negocios, asumida como estrategia empresarial.   
+          p(data-aos="fade-down") Las empresas optan por desarrollarse a partir de la generación de conocimiento desde sus procesos, enriqueciendo el <i>know how</i> (saber, hacer, propio y diferencial), definido como conocimiento, un activo intangible que genera valor organizacional y rentabilidad. Es por eso que, al adquirir un nuevo conocimiento y, de forma permanente, se incorpore en los procesos, es lo que se conoce como inteligencia de negocios, asumida como estrategia empresarial.   
 
       p(data-aos="fade-down").mb-5 Ante el logro de una empresa bajo el modelo de “inteligente”, la meta es la captación de nuevo conocimiento, o el fortalecimiento del ya existente, a través del emprendimiento de procesos de investigación empresarial, en los que se involucra el conocimiento que puede ser:
 
@@ -68,7 +68,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/60.png')})`}"
             )
             .bloque-texto-g__texto.p-4.py-5
-              p.mb-0 El lema que debe mantenerse es: la empresa que mayores capacidades tenga para transformar la información, del sistema empresarial, en conocimiento para el aprendizaje organizacional, está aplicando inteligencia de negocios. Se encuentra bastante información que asocia la inteligencia de negocios (BI) con el aumento de ventas y de sucursales, pero este es un concepto más integral y complejo, que propende al crecimiento y desarrollo organizacional, a partir de todos sus recursos y capacidades 
+              p.mb-0 El lema que debe mantenerse es: la empresa que mayores capacidades tenga para transformar la información, del sistema empresarial, en conocimiento para el aprendizaje organizacional, está aplicando inteligencia de negocios. Se encuentra bastante información que asocia la inteligencia de negocios (BI) con el aumento de ventas y de sucursales, pero este es un concepto más integral y complejo, que propende al crecimiento y desarrollo organizacional, a partir de todos sus recursos y capacidades. 
 
       p(data-aos="fade-down").mb-5 A continuación, se presentan algunos componentes precisos para obtener y mantener la inteligencia de negocios:
 
@@ -92,7 +92,7 @@
 
       p(data-aos="fade-down") Por otro lado, el modelamiento de soluciones en BI corresponde, en específico, a la estrategia de manejo de la información que se va a dar, en el negocio orientado a la inteligencia de negocios.
 
-      p(data-aos="fade-down").mb-5 Aunque es común concentrarse solo en el sistema de información computacional, es decir, en el software, en realidad se va más allá de esta tendencia, porque no se trata solo de los recursos, sino que la inteligencia del negocio sea, en otras palabras, una estrategia organizacional para la competitividad.
+      p(data-aos="fade-down").mb-5 Aunque es común concentrarse solo en el sistema de información computacional, es decir, en el <i>software</i>, en realidad se va más allá de esta tendencia, porque no se trata solo de los recursos, sino que la inteligencia del negocio sea, en otras palabras, una estrategia organizacional para la competitividad.
 
     .row.justify-content-center.align-items-start 
       .col-lg-10
@@ -103,7 +103,7 @@
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.png', alt='')    
       .col-lg-10.my-3
-        p(data-aos="fade-down") En este sentido, el Business Intelligence (BI) cumple esta función como un conjunto de aplicaciones, estrategias y metodologías del mundo de los datos, el cual ha ido evolucionando desde su aparición, a comienzos de los años 90, hasta la actualidad.
+        p(data-aos="fade-down") En este sentido, el <i>business intelligence</i> (BI) cumple esta función como un conjunto de aplicaciones, estrategias y metodologías del mundo de los datos, el cual ha ido evolucionando desde su aparición, a comienzos de los años 90, hasta la actualidad.
 
         p(data-aos="fade-down") La inteligencia empresarial es el proceso de recolectar, almacenar, analizar y administrar los datos, para transformarlos en decisiones estratégicas que permitan la definición de acciones encaminadas a lograr el éxito empresarial. 
 
@@ -112,10 +112,10 @@
         .bloque-texto-d.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular La aplicación de la técnica de BI en la empresa, permite manejar, procesar y actualizar gran cantidad de datos, pudiendo ser capaz de relacionarse entre sí, extrayendo información útil con alto valor empresarial, con el fin de facilitar y optimizar la toma de decisiones dentro de la empresa, a la misma velocidad que cambian los escenarios económicos
+            p.text-regular La aplicación de la técnica de BI en la empresa, permite manejar, procesar y actualizar gran cantidad de datos, pudiendo ser capaz de relacionarse entre sí, extrayendo información útil con alto valor empresarial, con el fin de facilitar y optimizar la toma de decisiones dentro de la empresa, a la misma velocidad que cambian los escenarios económicos
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 T- López, 2018.
+            h5.mb-0 López, 2018.
 
       p(data-aos="fade-down").mb-5 La inteligencia empresarial aplicada a cualquier organización, opera como una fuerza transformadora del ecosistema empresarial, generando nuevos impulsos y oportunidades de negocio; al ser implementada, influye necesariamente en todos los niveles de la organización y más directamente en los niveles superior y estratégico, los que deciden sobre el rumbo de la empresa. A continuación, se presenta el impacto de la inteligencia empresarial en cada nivel jerárquico de la organización:   
 
@@ -147,7 +147,7 @@
                   img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/65.svg", alt="alt").img100.m-auto
               .text-center
                 h4.mb-3 Fuente de datos
-                p.mb-0 Los datos son la fuente principal de abastecimiento del Business Intelligence y en ellos se ubica gran cantidad de información necesaria para poder tener una buena inteligencia de negocios.
+                p.mb-0 Los datos son la fuente principal de abastecimiento del <i>business intelligence</i> y en ellos se ubica gran cantidad de información necesaria para poder tener una buena inteligencia de negocios.
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-8
