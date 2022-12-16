@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Grupo_136690" data-name="Grupo 136690" transform="translate(-353 -2532)">
+    <circle id="Elipse_5407" data-name="Elipse 5407" cx="60" cy="60" r="60" transform="translate(353 2532)" fill="#b13e8d"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(385.963 2560.632)">
+      <g id="_1" data-name="1" transform="translate(-5.963 -1.632)">
+        <path id="Trazado_194400" data-name="Trazado 194400" d="M65.592,65.592H1.367A1.367,1.367,0,0,1,0,64.226V0H2.733V62.859H65.592Z" fill="#fff"/>
+        <path id="Trazado_194401" data-name="Trazado 194401" d="M50.932,60.126H40V5.466a5.466,5.466,0,0,1,10.932,0Z" transform="translate(14.66)" fill="none" stroke="#fff" stroke-width="2"/>
+        <path id="Trazado_194402" data-name="Trazado 194402" d="M39.932,55H29V19.466a5.466,5.466,0,1,1,10.932,0Z" transform="translate(10.629 5.131)" fill="none" stroke="#fff" stroke-width="2"/>
+        <path id="Trazado_194403" data-name="Trazado 194403" d="M28.932,58.66H18V9.466a5.466,5.466,0,0,1,10.932,0Z" transform="translate(6.597 1.466)" fill="none" stroke="#fff" stroke-width="2"/>
+        <path id="Trazado_194404" data-name="Trazado 194404" d="M17.932,52.43H7V26.466a5.466,5.466,0,1,1,10.932,0Z" transform="translate(2.566 7.697)" fill="none" stroke="#fff" stroke-width="2"/>
+        <rect id="Rectángulo_44016" data-name="Rectángulo 44016" width="4.1" height="2.733" transform="translate(1.367 8.199)" fill="#fff"/>
+        <rect id="Rectángulo_44017" data-name="Rectángulo 44017" width="4.1" height="2.733" transform="translate(1.367 19.131)" fill="#fff"/>
+        <rect id="Rectángulo_44018" data-name="Rectángulo 44018" width="4.1" height="2.733" transform="translate(1.367 30.063)" fill="#fff"/>
+        <rect id="Rectángulo_44019" data-name="Rectángulo 44019" width="4.1" height="2.733" transform="translate(1.367 40.995)" fill="#fff"/>
+        <rect id="Rectángulo_44020" data-name="Rectángulo 44020" width="4.1" height="2.733" transform="translate(1.367 51.927)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

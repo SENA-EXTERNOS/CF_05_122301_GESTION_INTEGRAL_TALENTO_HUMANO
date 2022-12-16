@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130">
+  <g id="Grupo_136757" data-name="Grupo 136757" transform="translate(-569 -1402)">
+    <circle id="Elipse_5537" data-name="Elipse 5537" cx="65" cy="65" r="65" transform="translate(569 1402)" fill="#b13e8d"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(592 1426)">
+      <g id="_1" data-name="1">
+        <path id="Trazado_194300" data-name="Trazado 194300" d="M39.316,75.633A36.316,36.316,0,1,1,75.632,39.316,36.316,36.316,0,0,1,39.316,75.633Zm0-69.174A32.858,32.858,0,1,0,72.174,39.316,32.858,32.858,0,0,0,39.316,6.459Z" transform="translate(2.188 2.188)" fill="#fff"/>
+        <path id="Trazado_194301" data-name="Trazado 194301" d="M34.211,58.422A24.211,24.211,0,1,1,58.422,34.211,24.211,24.211,0,0,1,34.211,58.422Zm0-44.963A20.752,20.752,0,1,0,54.963,34.211,20.752,20.752,0,0,0,34.211,13.459Z" transform="translate(7.293 7.294)" fill="#fff"/>
+        <rect id="Rectángulo_43906" data-name="Rectángulo 43906" width="3.459" height="19.023" transform="translate(39.775 63.986)" fill="#fff"/>
+        <rect id="Rectángulo_43907" data-name="Rectángulo 43907" width="3.459" height="19.023" transform="translate(39.775)" fill="#fff"/>
+        <rect id="Rectángulo_43908" data-name="Rectángulo 43908" width="19.023" height="3.459" transform="translate(0 39.775)" fill="#fff"/>
+        <rect id="Rectángulo_43909" data-name="Rectángulo 43909" width="19.023" height="3.459" transform="translate(63.986 39.775)" fill="#fff"/>
+        <path id="Trazado_194302" data-name="Trazado 194302" d="M26.926,30.573c-3.822,0-6.917-3.874-6.917-8.647a6.416,6.416,0,0,1,6.917-6.917,6.416,6.416,0,0,1,6.917,6.917C33.844,26.7,30.748,30.573,26.926,30.573Zm0-12.105c-3.1,0-3.459,1.971-3.459,3.459,0,2.767,1.608,5.188,3.459,5.188s3.459-2.421,3.459-5.188C30.385,20.439,30.022,18.468,26.926,18.468Z" transform="translate(14.578 10.931)" fill="#fff"/>
+        <path id="Trazado_194303" data-name="Trazado 194303" d="M41.211,39.3H37.752V28.387a1.729,1.729,0,0,0-1.435-1.729l-7.211-1.193-7.211,1.211A1.729,1.729,0,0,0,20.459,28.4V39.3H17V28.387A5.188,5.188,0,0,1,21.341,23.2l7.488-1.193a2.956,2.956,0,0,1,.553,0l7.488,1.262a5.188,5.188,0,0,1,4.341,5.188Z" transform="translate(12.399 16.04)" fill="#fff"/>
+        <rect id="Rectángulo_43910" data-name="Rectángulo 43910" width="3.459" height="3.459" transform="translate(39.775 51.881)" fill="#fff"/>
+        <rect id="Rectángulo_43911" data-name="Rectángulo 43911" width="3.459" height="3.459" transform="translate(39.775 44.963)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

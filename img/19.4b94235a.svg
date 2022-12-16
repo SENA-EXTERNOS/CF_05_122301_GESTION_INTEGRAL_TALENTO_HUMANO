@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Grupo_136697" data-name="Grupo 136697" transform="translate(-758 -1341)">
+    <circle id="Elipse_5464" data-name="Elipse 5464" cx="60" cy="60" r="60" transform="translate(758 1341)" fill="#b13e8d"/>
+    <g id="Grupo_136688" data-name="Grupo 136688" transform="translate(11326.908 8096.521)">
+      <g id="Grupo_136687" data-name="Grupo 136687" transform="translate(-10541.492 -6727.603)">
+        <g id="average-value" transform="translate(0 0)">
+          <path id="Trazado_194134" data-name="Trazado 194134" d="M84.621,15.622S82.313,48.954,66.7,47.288c-8.675,0-14.791-45.417-31.458-20.417-3.378,4.245-17.53,44.456-18.417,52.208" transform="translate(-16.829 -15.622)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Grupo_136686" data-name="Grupo 136686" transform="translate(-10544.117 -6730.521)">
+        <g id="Layer_2" data-name="Layer 2">
+          <g id="_1" data-name="1">
+            <rect id="Rectángulo_44098" data-name="Rectángulo 44098" width="5.833" height="2.917" transform="translate(1.458 8.75)" fill="#fff"/>
+            <rect id="Rectángulo_44099" data-name="Rectángulo 44099" width="5.833" height="2.917" transform="translate(1.458 20.417)" fill="#fff"/>
+            <rect id="Rectángulo_44100" data-name="Rectángulo 44100" width="5.833" height="2.917" transform="translate(1.458 32.083)" fill="#fff"/>
+            <rect id="Rectángulo_44101" data-name="Rectángulo 44101" width="5.833" height="2.917" transform="translate(1.458 43.75)" fill="#fff"/>
+            <rect id="Rectángulo_44102" data-name="Rectángulo 44102" width="5.833" height="2.917" transform="translate(1.458 55.417)" fill="#fff"/>
+            <path id="Trazado_194470" data-name="Trazado 194470" d="M70,70H1.458A1.458,1.458,0,0,1,0,68.541V0H2.917V67.083H70Z" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
