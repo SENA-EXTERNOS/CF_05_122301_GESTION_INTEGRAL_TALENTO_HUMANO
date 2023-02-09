@@ -21,7 +21,9 @@
         .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/42.png', alt='')
 
-    p(data-aos="fade-down").mb-5 Cuando se empieza un proyecto de visualización, la duda que se presenta es: cuál herramienta utilizar para poder realizar un trabajo que satisfaga las necesidades del usuario final. En ese orden de ideas, es bueno tener en cuenta la siguiente guía que ayuda a la escogencia de la herramienta o librería indicada. 
+    p(data-aos="fade-down") Cuando se empieza un proyecto de visualización, la duda que se presenta es: cuál herramienta utilizar para poder realizar un trabajo que satisfaga las necesidades del usuario final. 
+    
+    p(data-aos="fade-down").mb-5 Por tanto, es bueno tener en cuenta la siguiente guía que ayuda a la escogencia de la herramienta o librería indicada:    
 
     ImagenInfograficaC.color-acento-botones.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
@@ -50,14 +52,14 @@
 
       .row.justify-content-center.align-items-start.mb-3.pt-5
         .col-lg-8.my-3
-          p(data-aos="fade-down") En la empresa, es usual encontrar reportesbig data de datos gráficos, debido a que las imágenes son un recurso esencial en la comunicación de la información empresarial en cualquier área. Los gráficos de producción, las proyecciones de venta, los resultados en rentabilidad, en su mayoría, son representados a través de visualizaciones estadísticas gráficas.
+          p(data-aos="fade-down") En la empresa, es usual encontrar reportes de datos gráficos, debido a que las imágenes son un recurso esencial en la comunicación de la información empresarial en cualquier área. Los gráficos de producción, las proyecciones de venta, los resultados en rentabilidad, en su mayoría, son representados a través de visualizaciones estadísticas gráficas.
           .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
             p(data-aos="fade-down").mb-0 Tratándose de #[i Big data] y datos masivos, existen múltiples, productivas y exitosas herramientas de visualización de los datos, en donde la tecnología proporciona la visualización dinámica, simulando comportamientos, tendencias y otras generalizaciones esenciales en los grandes flujos de información, de la cual se amerita tomar decisiones.        
         .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/45.png', alt='')
 
-    p(data-aos="fade-down").mb-5 Es evidente que, para la visualización de los datos masivos, se necesita de <i>software</i> especializados, y de competencias específicas para su manejo. A continuación, se mencionan algunas herramientas de <i>big data</i> utilizadas para el procesamiento y visualización de los datos en la empresa. 
-
+    p(data-aos="fade-down") Es evidente que, para la visualización de los datos masivos, se necesita de #[i software] especializados, y de competencias específicas para su manejo. 
+    p(data-aos="fade-down").mb-5 A continuación, se mencionan algunas herramientas de #[i Big] data utilizadas para el procesamiento y visualización de los datos en la empresa:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12.up      
       SlyderF.custom.mb-5(columnas="col-lg-4 col-md-4")(data-aos="fade-left")

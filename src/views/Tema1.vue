@@ -51,24 +51,35 @@
             h4(data-aos="fade-down").mb-0 Técnicas y herramientas de la estadística para el procesamiento de datos 
 
       .row.justify-content-center.align-items-center.mb-5           
-        .col-lg-10.up(data-aos="fade-left")
+        .col-lg-11.up(data-aos="fade-left")
           .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/10.png')})`}"
             )
             .bloque-texto-g__texto.p-4.py-5
-              p.mb-0 La estadística para el procesamiento de datos científicos, es decir, datos con valor predictivo, con importancia para la toma de decisiones, que conjugados aporten la mayor información posible al analista, amerita de técnicas y herramientas que han sido definidas por los matemáticos, y las cuales se han formalizado en tres grandes categorías, en función de su complejidad y utilidad: las distribuciones de frecuencia, las medidas de tendencia central, y las medidas de dispersión. 
+              p.mb-0 La estadística para el procesamiento de datos científicos, es decir, datos con valor predictivo, con importancia para la toma de decisiones, que conjugados aporten la mayor información posible al analista, amerita el uso de técnicas y herramientas que han sido definidas por los matemáticos, y las cuales se han formalizado en tres grandes categorías, en función de su complejidad y utilidad:
+              br
+              ul.lista-ul.ps-2.mb-0
+                li 
+                  i.fas.fa-angle-right.colorv
+                  p.mb-0 Las distribuciones de frecuencia. 
+                li 
+                  i.fas.fa-angle-right.colorv
+                  p.mb-0 Las medidas de tendencia central.
+                li 
+                  i.fas.fa-angle-right.colorv
+                  p.mb-0 Las medidas de dispersión.                                
       p(data-aos="fade-down") Cada una de estas técnicas posee procesamientos distintos, amerita del apoyo de herramientas ofimáticas o <i>software</i> de cálculo, y generan diversos tipos de información, visualizadas de maneras análogas a través de tablas y gráficos, pero que muestran una estructura de datos particulares en cada caso.    
       p(data-aos="fade-down").mb-5 Seguidamente, se describen técnicas y herramientas de la estadística, para el procesamiento de datos:
 
     .row.justify-content-center.align-items-start.mb-4          
-      .col-lg-8.up.my-3
+      .col-lg-9.up.my-3
         TabsA.color-acento-contenido.mb-5(data-aos="fade-left")
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Distribuciones de<br> frecuencia")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Distribuciones<br> de frecuencia")
             .row.justify-content-center.align-items-start
               .col-lg-12
                 p Son las herramientas más básicas de la estadística descriptiva, la cual, mediante tablas, muestra la cantidad de veces que ocurre un evento y, el porcentaje de ocurrencia de ese evento, en función de la totalidad de la cantidad de casos de estudio. 
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Medidas de<br> tendencia central")
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Medidas de<br> tendencia<br> central")
             .row.justify-content-center.align-items-start
               .col-lg-12
                 p Se refiere a los parámetros estadísticos que indican el punto medio donde se comportan los datos de una población estadística de datos. Responden a la pregunta: ¿hacia dónde se concentran los datos? 
@@ -76,7 +87,7 @@
             .row.justify-content-center.align-items-start
               .col-lg-12
                 p Relacionan los parámetros estadísticos que indican qué tanto cambia el comportamiento de una variable estadística con respecto a otra, o el valor que toma una variable, con respecto a otro de la misma variable. Responden a la pregunta: ¿qué tanto varía (cambia) el valor de una variable?                                       
-      .col-lg-4.up.my-3
+      .col-lg-3.up.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.png', alt='')    
 
       p(data-aos="fade-down") Las distribuciones de frecuencia, facilitan la tabulación básica de los datos de entrada de un estudio, su conteo y el cálculo de las proporciones, sobre la base del total de los datos obtenidos.
@@ -87,7 +98,7 @@
         .cajon.color-primario.p-4.mb-5(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Para la visualización de las distribuciones, se utilizan diferentes elementos gráficos elaborados con las herramientas de cálculo utilizadas por el analista, y recordar que la más básica es Excel.  
 
-      p(data-aos="fade-down").mb-5 Es importante que para mostrar de forma adecuada la información, se elija entre los diferentes tipos de gráficos en Excel. Cada tipo de gráfico despliega la información de una forma diferente y utiliza el gráfico correcto, ayudando a dar la interpretación correcta a los datos:
+      p(data-aos="fade-down").mb-5 Es importante que, para mostrar de forma adecuada la información, se elija entre los diferentes tipos de gráficos en Excel. Cada tipo de gráfico despliega la información de una forma diferente y utiliza el gráfico correcto, ayudando a dar la interpretación correcta a los datos:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12.up      

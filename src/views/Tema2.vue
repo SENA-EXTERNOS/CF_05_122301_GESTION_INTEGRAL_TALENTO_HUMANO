@@ -11,13 +11,13 @@
       .col-lg-8.my-3 
         p(data-aos="fade-down") Teniendo claros los conceptos de estadística, se prosigue con el análisis exploratorio de datos EDA, el cual se refiere a la utilización de herramientas como gráficos y visualizaciones, para explorar y analizar un conjunto de datos, conocerlos y comprender lo que se puede averiguar de ellos.
 
-        p(data-aos="fade-down") El análisis exploratorio de datos es un trabajo en el que se buscan claves y pistas que puedan conducir a la identificación de las posibles causas de origen del problema que se intenta resolver. Se examinan las variables de una en una, luego de dos en dos, y después, muchas variables al mismo tiempo.
+        p(data-aos="fade-down") El análisis exploratorio de datos es un trabajo en el que se buscan claves y pistas que puedan conducir a la identificación de las posibles causas de origen del problema que se intenta resolver. Se examinan las variables de una en una, luego de dos en dos y, después, muchas variables al mismo tiempo.
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 El EDA comprende tablas de resúmenes estadísticos como la media y la desviación estándar, pero la mayor parte de los individuos se centran en los gráficos, los cuales son variados, y herramientas exploratorias. 
+          p(data-aos="fade-down").mb-0 El EDA comprende tablas de resúmenes estadísticos como la media y la desviación estándar, pero la mayor parte de los individuos se centran en los gráficos, los cuales son variados. 
        
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/71.png', alt='')    
-    p(data-aos="fade-down").mb-5 A continuación, se presenta una lista de varios tipos de gráficos que se pueden utilizar en el análisis de datos. 
+    p(data-aos="fade-down").mb-5 A continuación, se presenta una lista de varios tipos de gráficos que se pueden utilizar en el análisis de datos: 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="zoom-in")
       LineaTiempoC.color-secundario
         .row.justify-content-center.align-items-start.pt-3(titulo="Diagrama de barras")
@@ -70,11 +70,11 @@
       p(data-aos="fade-down").mb-5 A continuación, se define cada modelo:
 
       .row.justify-content-center.align-items-start.mb-4 
-        .col-lg-3.up.my-3
+        .col-lg-2.up.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/29.png', alt='')                   
-        .col-lg-9.up.my-3
+        .col-lg-10.up.my-3
           TabsA.color-acento-contenido.mb-5(data-aos="fade-left")
-            .tarjeta.color-acento-contenido--borde.p-4(titulo="Según su operatividad")
+            .tarjeta.color-acento-contenido--borde.p-4(titulo="Según su <br> operatividad")
               .row.justify-content-center.align-items-start
                 .col-lg-12
                   p Son las más populares para una investigación, porque es posible darles un valor numérico y que operen a partir de valor. Se clasifican en:
@@ -138,8 +138,7 @@
       .col-lg-8
         .cajon.color-primario.p-4.mb-5(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 La distribución de posibilidad de una variable, es una función que asigna a cada suceso definido sobre la variable, la probabilidad que dicho suceso ocurra. Un ejemplo puede ser el de las grandes cadenas de electrodomésticos, que se sitúan en lugares con fácil acceso para las familias. O una distribución exclusiva como cuando el punto de venta se centra en otorgar un mayor prestigio a la marca; por ejemplo, puede ser una filial de una cadena de almacenes.
-    p(data-aos="fade-down").mb-5 En el estudio del análisis exploratorio de datos, se identifican dos temas importantes que se explican a continuación.   
-
+    p(data-aos="fade-down").mb-5 En el estudio del análisis exploratorio de datos, se identifican dos temas importantes que se explican a continuación:
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-8.my-3 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
@@ -197,7 +196,7 @@
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Hay diferentes tipos de transformación de datos, que las empresas pueden ejecutar para comprender mejor sus operaciones. De acuerdo con el tipo que se utilice en la empresa, se manifiestan unas ventajas que aportan resultados en la obtención de la calidad.
 
-    p(data-aos="fade-down").mb-5 Las siguientes, son ventajas que favorecen a las organizaciones cuando realizan las transformaciones de datos. 
+    p(data-aos="fade-down").mb-5 Las siguientes, son ventajas que favorecen a las organizaciones cuando realizan las transformaciones de datos:
 
     .row.justify-content-center      
       .col-lg-10
