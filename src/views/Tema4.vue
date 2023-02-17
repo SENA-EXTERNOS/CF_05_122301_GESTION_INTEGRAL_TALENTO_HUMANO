@@ -117,7 +117,9 @@
           .bloque-texto-d__autor 
             h5.mb-0 López, 2018.
 
-      p(data-aos="fade-down").mb-5 La inteligencia empresarial aplicada a cualquier organización, opera como una fuerza transformadora del ecosistema empresarial, generando nuevos impulsos y oportunidades de negocio; al ser implementada, influye necesariamente en todos los niveles de la organización y más directamente en los niveles superior y estratégico, los que deciden sobre el rumbo de la empresa. A continuación, se presenta el impacto de la inteligencia empresarial en cada nivel jerárquico de la organización:   
+      p(data-aos="fade-down") La inteligencia empresarial aplicada a cualquier organización, opera como una fuerza transformadora del ecosistema empresarial, generando nuevos impulsos y oportunidades de negocio; al ser implementada, influye necesariamente en todos los niveles de la organización y más directamente en los niveles superior y estratégico, los que deciden sobre el rumbo de la empresa. 
+      
+      p(data-aos="fade-down").mb-5 A continuación, se presenta el impacto de la inteligencia empresarial en cada nivel jerárquico de la organización:   
 
     ImagenInfograficaC.color-acento-botones.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
