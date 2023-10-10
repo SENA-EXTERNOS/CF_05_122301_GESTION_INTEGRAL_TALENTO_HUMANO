@@ -117,7 +117,7 @@
           img.img-a.img-t.img-w2(src='@/assets/curso/temas/14.svg' alt='AvatarTop')
           div.text-center.bg2.p-2.pt-5.h-100
             h4.mb-3.pt-4 Gráfico circular
-            p Este se conoce como gráfico de pie o gráfico de pastel. Puede contener una sola serie de datos debido a que indica los porcentajes de cada una de las partes con respecto al total.
+            p Este se conoce como gráfico de #[em pie] o gráfico de pastel. Puede contener una sola serie de datos debido a que indica los porcentajes de cada una de las partes con respecto al total.
         .tarjeta-avatar
           img.img-a.img-t.img-w2(src='@/assets/curso/temas/15.svg' alt='AvatarTop')
           div.text-center.bg2.p-2.pt-5.h-100

@@ -54,12 +54,12 @@
         .col-lg-8.my-3
           p(data-aos="fade-down") En la empresa, es usual encontrar reportes de datos gráficos, debido a que las imágenes son un recurso esencial en la comunicación de la información empresarial en cualquier área. Los gráficos de producción, las proyecciones de venta, los resultados en rentabilidad, en su mayoría, son representados a través de visualizaciones estadísticas gráficas.
           .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-            p(data-aos="fade-down").mb-0 Tratándose de #[i Big data] y datos masivos, existen múltiples, productivas y exitosas herramientas de visualización de los datos, en donde la tecnología proporciona la visualización dinámica, simulando comportamientos, tendencias y otras generalizaciones esenciales en los grandes flujos de información, de la cual se amerita tomar decisiones.        
+            p(data-aos="fade-down").mb-0 Tratándose de #[i big data] y datos masivos, existen múltiples, productivas y exitosas herramientas de visualización de los datos, en donde la tecnología proporciona la visualización dinámica, simulando comportamientos, tendencias y otras generalizaciones esenciales en los grandes flujos de información, de la cual se amerita tomar decisiones.        
         .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/45.png', alt='')
 
     p(data-aos="fade-down") Es evidente que, para la visualización de los datos masivos, se necesita de #[i software] especializados, y de competencias específicas para su manejo. 
-    p(data-aos="fade-down").mb-5 A continuación, se mencionan algunas herramientas de #[i Big] data utilizadas para el procesamiento y visualización de los datos en la empresa:
+    p(data-aos="fade-down").mb-5 A continuación, se mencionan algunas herramientas de #[i big data] utilizadas para el procesamiento y visualización de los datos en la empresa:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12.up      
       SlyderF.custom.mb-5(columnas="col-lg-4 col-md-4")(data-aos="fade-left")
